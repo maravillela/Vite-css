@@ -1,3 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background:rgb(39, 38, 38);
+  font-size: 18px;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
 .contenedorPrincipal {
   background-color: rgb(39, 38, 38);
   display: flex;
