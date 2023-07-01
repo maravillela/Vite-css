@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../../my-first-react-app"
+    },
+    {
+      "path": "../../../twitch"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "vite-project"
+  }
+}
